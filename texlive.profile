@@ -2,7 +2,6 @@ selected_scheme scheme-small
 binary_x86_64-linux 1
 collection-fontutils 1
 collection-latex 1
-in_place 0
 option_adjustrepo 1
 option_autobackup 1
 option_backupdir tlpkg/backups
@@ -11,7 +10,6 @@ option_doc 1
 option_file_assocs 1
 option_fmt 1
 option_letter 0
-option_menu_integration 1
 option_path 0
 option_post_code 1
 option_src 1

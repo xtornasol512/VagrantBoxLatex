@@ -1,1 +1,1 @@
-Vagrant File with Latex and on the fly packages!
+# Vagrant File with Latex and on the fly packages!
