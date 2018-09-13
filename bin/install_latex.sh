@@ -1,6 +1,5 @@
 !/bin/sh
-# Latex Install, the prescript way!
-
+# Script refactor from a production environ to open source 
 
 if [ `which pdflatex` ]; then
         echo "==>Latex is installed!! Well Done!"
