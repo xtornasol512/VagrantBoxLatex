@@ -8,3 +8,7 @@
 2. Then compile!
 
 `sudo env PATH="$PATH" texliveonfly --compiler=pdflatex main.tex`
+
+Notes:
+ You must use 
+`echo "export TEXLIVE_HOME='/vagrant/build'" >> ~/.profile
